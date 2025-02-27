@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fmc.h": "c",
+        "usart.h": "c",
+        "main.h": "c",
+        "4g.h": "c"
+    }
+}
